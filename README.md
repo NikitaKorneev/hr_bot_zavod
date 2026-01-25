@@ -288,19 +288,6 @@ DOCKER_REPO=docker_repo_name
 
 ---
 
-## Авторы
-**Наставник:**
-  - [Роман Александров](https://github.com/teamofroman)
-
-**Тимлид проекта:**
-- [Максим Буряковский](https://github.com/mbur17)
-
-**Команда Админки:**
-- [Иванова Анна](https://github.com/IvalexAnna)
-- [Кардава Дмитрий](https://github.com/DmitriyKardava)
-- [Столповских Максим](https://github.com/maxstolpovskikh)
-- [Серебренников Александр](https://github.com/serebrennikovalexander)
-
 **Команда Бота:**
 - [Похлебкина Елизавета](https://github.com/foxxybit)
 - [Черепова Кунел](https://github.com/kunelcherepova)
