@@ -1,4 +1,4 @@
-# HR Automation Bot
+# HR Automation Bot - бот от Максимки, лучшего программиста на свете!
 
 ---
 
